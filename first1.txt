@@ -1,3 +1,5 @@
 hello
 welcome to 3ri
 my name is barkha
+Welcome to the world of Linux.
+Hii
